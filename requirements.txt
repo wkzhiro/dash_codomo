@@ -1,0 +1,5 @@
+dash-uploader
+dash
+dash-bootstrap-components
+requests
+python-multipart
